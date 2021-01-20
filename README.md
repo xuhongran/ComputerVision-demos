@@ -2,7 +2,7 @@
 This repository contains the source code for the demos I use for the undergraduate and graduate course on Computer Vision. 
 
 ## Contents
-1. Images
+1. __Images__
  - Digitization (Python script: digitization.py)
-    ![](01-Images/digitization.png)
-2. Edges
+    ![Digitization example](01-Images/digitization.png)
+2. __Edges__
