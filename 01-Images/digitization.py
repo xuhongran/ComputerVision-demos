@@ -11,6 +11,8 @@
 #     You should have received a copy of the GNU General Public License
 #     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+#     Written by Charalambos (Charis) Poullis - www.poullis.org
+
 import numpy as np
 import matplotlib
 matplotlib.use("TkAgg")  # Add this before pyplot otherwise it won't work on openSUSE 15.2
