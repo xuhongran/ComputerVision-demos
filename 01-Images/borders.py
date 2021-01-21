@@ -24,7 +24,7 @@ scale = 10
 original = cv2.resize(original, (int(original.shape[1]/scale), int(original.shape[0]/scale)) , interpolation=cv2.INTER_AREA)
 
 #Apply filters with different borders
-kernel_size = 3
+kernel_size = 20
 constant = cv2.boxFilter(original, cv2.CV_8U, (kernel_size, kernel_size), borderType=cv2.BORDER_CONSTANT)
 replicate = cv2.boxFilter(original, cv2.CV_8U, (kernel_size, kernel_size), borderType=cv2.BORDER_REPLICATE)
 reflect = cv2.boxFilter(original, cv2.CV_8U, (kernel_size, kernel_size), borderType=cv2.BORDER_REFLECT)
