@@ -8,3 +8,9 @@ This repository contains the source code for the demos I use for the undergradua
  - Borders (Python script: borderds.py)
     ![Borders example](01-Images/borders.png)
 2. __Edges__
+ - Derivative calculation example (R script: edge_example.r)
+   
+    ![Derivative calculation example](02-Edges/noise_example.png ) 
+    ![Derivative calculation example](02-Edges/noise_example_gaussian.png)
+    ![Derivative calculation example](02-Edges/derivative_dx_on_unsmoothed.png | width=100)
+    ![Derivative calculation example](02-Edges/derivative_dx_on_smoothed.png | width=100)
