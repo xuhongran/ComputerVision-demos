@@ -12,5 +12,6 @@ This repository contains the source code for the demos I use for the undergradua
    
     ![Derivative calculation example](02-Edges/noise_example.png ) 
     ![Derivative calculation example](02-Edges/noise_example_gaussian.png)
-    ![Derivative calculation example](02-Edges/derivative_dx_on_unsmoothed.png | width=100)
-    ![Derivative calculation example](02-Edges/derivative_dx_on_smoothed.png | width=100)
+    <img src="./02-Edges/derivative_dx_on_unsmoothed.png"  width="100"/>
+    <img src="./02-Edges/derivative_dx_on_smoothed.png"  width="100"/>
+    
