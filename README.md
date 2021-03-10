@@ -18,6 +18,7 @@ This repository contains the source code for the demos I use for the undergradua
     <img src="02-Edges/derivative_dx_on_smoothed.png"  width="189"/>
  
  - Hough Transform (Python script: hough.py)
+ 
     <img src="02-Edges/hough.png"  width="189"/>
    
 3. __Geometric transformations__
