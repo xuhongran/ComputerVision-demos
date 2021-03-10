@@ -16,6 +16,9 @@ This repository contains the source code for the demos I use for the undergradua
     ![Derivative calculation example](02-Edges/noise_example_gaussian.png)
     <img src="02-Edges/derivative_dx_on_unsmoothed.png"  width="189"/>
     <img src="02-Edges/derivative_dx_on_smoothed.png"  width="189"/>
+ 
+ - Hough Transform (Python script: hough.py)
+    <img src="02-Edges/hough.png"  width="189"/>
    
 3. __Geometric transformations__
  - Transformations (Python script: transformations.py)
