@@ -35,7 +35,7 @@ This repository contains the source code for the demos I use for the undergradua
 10. __Image Classification__
  - Working with CIFAR10 dataset (CIFAR10_dataset.ipynb)
 
- - <img src="10-ImageClassification/sample_training_images.png"  width="189"/>
+ <img src="10-ImageClassification/sample_training_images.png"  width="189"/>
 
  - k-Nearest Neighbours (NearestNeighbours.ipynb) 
 
