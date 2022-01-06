@@ -6,7 +6,7 @@ This repository contains the source code for the demos I use for the undergradua
  - Digitization (Python script: digitization.py)
    
    <img src="01-Images/digitization.png"  width="300"/>
- - Borders (Python script: borderds.py)
+ - Borders (Python script: borders.py)
     ![Borders example](01-Images/borders.png)
    
 2. __Edges__
