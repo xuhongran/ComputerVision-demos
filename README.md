@@ -30,3 +30,30 @@ This repository contains the source code for the demos I use for the undergradua
  - Principal Component Analysis (R script: PCA.r)
    
     <img src="04-Interest_points/PCA.png"  width="189"/>
+
+
+10. __Image Classification__
+ - Working with CIFAR10 dataset (CIFAR10_dataset.ipynb)
+
+ - <img src="10-ImageClassification/sample_training_images.png"  width="189"/>
+
+ - k-Nearest Neighbours (NearestNeighbours.ipynb) 
+
+ <img src="10-ImageClassification/nearest_neighbour.png"  width="189"/>
+
+ - Linear Classifier Weights (LinearClassifier.ipynb) 
+
+ <img src="10-ImageClassification/weights_images_.png"  width="50"/>
+
+ - Cross-Validation k-NN (CrossValidation.ipynb) 
+
+ <img src="10-ImageClassification/crossvalidation_knn_.png"  width="189"/>
+
+ - Gradient Descent (GradientDescent.ipynb)
+
+ - Basic Neural Network (NeuralNetwork.ipynb)
+
+ - Convolutional Autoencoder (Autoencoder.ipynb)
+
+ <img src="10-ImageClassification/crossvalidation_knn_.png"  width="189"/>
+
