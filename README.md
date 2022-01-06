@@ -55,5 +55,6 @@ This repository contains the source code for the demos I use for the undergradua
 
  - Convolutional Autoencoder (Autoencoder.ipynb)
 
- <img src="10-ImageClassification/crossvalidation_knn_.png"  width="189"/>
+ <img src="10-ImageClassification/autoencoder_loss.png"  width="189"/>
+<img src="10-ImageClassification/autoencoder_reconstruction.png"  width="189"/>
 
