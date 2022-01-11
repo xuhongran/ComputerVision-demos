@@ -58,3 +58,8 @@ This repository contains the source code for the demos I use for the undergradua
  <img src="10-ImageClassification/ConvolutionalAutoencoder/autoencoder_loss.png"  width="189"/>
 <img src="10-ImageClassification/ConvolutionalAutoencoder/autoencoder_reconstruction.png"  width="189"/>
 
+ - Convolutional Autoencoder with Linear Bottleneck (Autoencoder_w_bottleneck.ipynb)
+
+ <img src="10-ImageClassification/ConvolutionalAutoencoderWLinearBottleneck/autoencoder_loss.png"  width="189"/>
+<img src="10-ImageClassification/ConvolutionalAutoencoderWLinearBottleneck/autoencoder_reconstruction.png"  width="189"/>
+
