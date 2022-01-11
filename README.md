@@ -35,19 +35,19 @@ This repository contains the source code for the demos I use for the undergradua
 10. __Image Classification__
  - Working with CIFAR10 dataset (CIFAR10_dataset.ipynb)
 
- <img src="10-ImageClassification/sample_training_images.png"  width="189"/>
+ <img src="10-ImageClassification/CIFAR10-dataset/sample_training_images.png"  width="189"/>
 
  - k-Nearest Neighbours (NearestNeighbours.ipynb) 
 
- <img src="10-ImageClassification/nearest_neighbour.png"  width="189"/>
+ <img src="10-ImageClassification/NearestNeighbour/nearest_neighbour.png"  width="189"/>
 
  - Linear Classifier Weights (LinearClassifier.ipynb) 
 
- <img src="10-ImageClassification/weights_images_.png"  width="50"/>
+ <img src="10-ImageClassification/LinearClassifier/weights_images_.png"  width="50"/>
 
  - Cross-Validation k-NN (CrossValidation.ipynb) 
 
- <img src="10-ImageClassification/crossvalidation_knn_.png"  width="189"/>
+ <img src="10-ImageClassification/CrossValidation/crossvalidation_knn_.png"  width="189"/>
 
  - Gradient Descent (GradientDescent.ipynb)
 
@@ -55,6 +55,10 @@ This repository contains the source code for the demos I use for the undergradua
 
  - Convolutional Autoencoder (Autoencoder.ipynb)
 
- <img src="10-ImageClassification/autoencoder_loss.png"  width="189"/>
-<img src="10-ImageClassification/autoencoder_reconstruction.png"  width="189"/>
+ <img src="10-ImageClassification/ConvolutionalAutoencoder/autoencoder_loss.png"  width="189"/>
+<img src="10-ImageClassification/ConvolutionalAutoencoder/autoencoder_reconstruction.png"  width="189"/>
 
+ - Convolutional Autoencoder with Linear Bottleneck (Autoencoder_w_bottleneck.ipynb)
+
+ <img src="10-ImageClassification/ConvolutionalAutoencoderWLinearBottleneck/autoencoder_loss.png"  width="189"/>
+<img src="10-ImageClassification/ConvolutionalAutoencoderWLinearBottleneck/autoencoder_reconstruction.png"  width="189"/>
