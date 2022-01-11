@@ -1,5 +1,5 @@
 # Demos
-This repository contains the source code for the demos I use for the undergraduate and graduate course on Computer Vision. 
+This repository contains the source code for the demos I use for the undergraduate and graduate courses in Computer Vision. 
 
 ## Contents
 1. __Images__
