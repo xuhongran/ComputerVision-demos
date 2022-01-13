@@ -31,7 +31,7 @@ def analog_signal (time_point):
 max_signal_frequency   = 11 #determines the oscillations of the original signal;
 nyquist_rate = 2 * max_signal_frequency
 
-sampling_frequency = 50 # Hz (1/second)
+sampling_frequency = 30 # Hz (1/second)
 sampling_period = 1 / sampling_frequency # second
 sample_number = int(np.round(time_of_view / sampling_period)) + 1    #Number of samples
 sampling_time = np.linspace (0, time_of_view, sample_number)
@@ -47,7 +47,7 @@ max_signal_val = 2 #max value for analog signal, sin and cos are in [-1,1]. we a
 min_signal_val = -2 #min value for analog signal
 val_range = max_signal_val - min_signal_val
 
-quantization_bits     = 8   #number of bits
+quantization_bits     = 16   #number of bits
 quantization_num_bins = 2**quantization_bits    #Number of bins on the vertical axis
 quantization_step = val_range/(quantization_num_bins-1) #Step size between bins
 quantization_bins = []
