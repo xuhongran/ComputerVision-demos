@@ -17,7 +17,7 @@ import numpy as np
 import cv2
 
 #Load the image
-original = cv2.imread("../figures/santorini.jpeg")
+original = cv2.imread("santorini.jpeg")
 #Set the desired scale
 scale = 10
 #Resize the original image
