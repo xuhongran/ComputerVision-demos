@@ -60,6 +60,17 @@ This repository contains the source code for the demos I use for the undergradua
 
  - Convolutional Autoencoder with Linear Bottleneck (Autoencoder_w_bottleneck.ipynb)
 
+An example of how one could combine convolutional layers and linear layers. Not recommended for use in any application.
+
  <img src="10-ImageClassification/ConvolutionalAutoencoderWLinearBottleneck/autoencoder_loss.png"  width="189"/>
 <img src="10-ImageClassification/ConvolutionalAutoencoderWLinearBottleneck/autoencoder_reconstruction.png"  width="189"/>
 
+ - Variational Autoencoders (VariationalAutoencoderCIFAR10.ipynb and VariationalAutoencoderMNIST.ipynb)
+ 
+The VAE for CIFAR10 is using convolutional layers: 
+
+<img src="10-ImageClassification/VariationalAutoencoder/vae_reconstruction_CIFAR10.png"  width="189"/>
+
+The VAE for MNIST is using linear layers:
+
+<img src="10-ImageClassification/VariationalAutoencoder/vae_reconstruction_MNIST.png"  width="189"/>
